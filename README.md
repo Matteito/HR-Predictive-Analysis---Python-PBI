@@ -1,2 +1,2 @@
-# Python-and-Power-BI
-How to write Python scripts in Power BI
+# Customized HR predictive analysis and visualisation in Power BI
+
