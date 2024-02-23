@@ -1,2 +1,2 @@
-# Customized HR predictive analysis and visualisation in Power BI
+### A case of HR analytics - analysing turnover
 
